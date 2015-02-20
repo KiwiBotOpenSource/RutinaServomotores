@@ -8,7 +8,7 @@ int espera=1000;
 int i=0;
 // Pines de moservotores:
 int servoLPin = 4; //Los cuatro “in” son  los pines a los que va conectado el motor driver
-int servoRPin=8;
+int servoRPin=7;
 
 // Variables de comunicacion:
 
